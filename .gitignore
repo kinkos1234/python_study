@@ -29,5 +29,8 @@ env/
 *.dmg
 *.pkg
 
+# Large data folders
+QGIS/
+
 # Claude
 .claude/
